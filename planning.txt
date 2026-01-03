@@ -1,0 +1,15 @@
+Starting gameplay:
+- Basic (initial) storyline: Witch loses something in a forest and commissions the player to go grab it for her.
+- At least six decisions are to be made, starting with accepting or denying the witch's request. Wrong option can lead to immediate death/game over for now.
+
+Later goals:
+- Ability to save information and/or have accounts
+- Transition from text RPG into casual collection game
+- Decisions can loop back to each other, routes expand for more freedom
+- Achievements
+
+Stretch/if time allows:
+- Add NPCs
+- Multiple locations
+- Collectibles 
+- Battle/fighting mechanics
