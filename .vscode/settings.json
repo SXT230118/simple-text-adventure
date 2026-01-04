@@ -1,0 +1,17 @@
+{
+  // Disable autocomplete suggestions inside comments while keeping them for code
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+
+  // Workspace: turn off GitHub Copilot inline suggestions (affects Copilot-only inline/ghost suggestions)
+  "github.copilot.inlineSuggest.enable": false,
+
+  // Best-effort: attempt to disable TabNine inline suggestions in this workspace
+  "tabnine.inline_suggestions": false,
+
+  // Best-effort: attempt to reduce IntelliCode suggestions in comments
+  "visualstudiointellicode.suggestionInComments": false
+}
